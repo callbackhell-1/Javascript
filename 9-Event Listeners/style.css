@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  background-color: pink;
+  padding: 10px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+button {
+  padding: 10px;
+  background-color: rgba(255, 0, 0, 0.6);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+/* This will use by event listener */
+
+.forDiv {
+  padding: 20px;
+  background-color: yellow;
+  border-radius: 10px;
+}
