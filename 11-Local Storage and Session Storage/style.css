@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#myInput,
+#myBtn,#deleteBtn {
+  padding: 15px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 500;
+  margin-top: 10px;
+  border: none;
+}
+
+#myInput {
+  border: 1px solid rgba(236, 221, 221, 0.696);
+}
+
+#myBtn,#deleteBtn {
+  background-color: rgba(69, 69, 210, 0.762);
+  color:white
+}
+#deleteBtn{
+  background-color: rgb(189, 33, 33);
+}
