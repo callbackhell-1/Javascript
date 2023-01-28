@@ -1,0 +1,13 @@
+#para {
+  width: 70%;
+  height: 30vh;
+  background-color: rgb(51, 45, 45);
+  text-align: center;
+  color: white;
+  border: 2x solid rgb(10, 221, 87);
+}
+
+div {
+display: flex;
+justify-content: center;
+}
